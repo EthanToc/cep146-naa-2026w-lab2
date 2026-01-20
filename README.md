@@ -1,3 +1,18 @@
-#     cep146-naa-2026w-lab2
-
-Repo for Lab 2
+# My Course Portfolio
+ 
+Welcome to my academic portfolio for CEP146-NAA!
+ 
+## About Me
+- Name: Ethan
+- Program: Computer Programming and Analysis (CPAC)
+- Year: Year 1, Semester 1
+- Favorite Programming Language: Python
+ 
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+ 
+## Projects
+*This section will be updated as I complete assignments*
